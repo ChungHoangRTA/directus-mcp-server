@@ -1,0 +1,1 @@
+# directus-mcp-server
